@@ -86,9 +86,11 @@ Task tables are automatically created when the app runs.
 ```
 📦 Todo_List_app
  ┣ 📁 templates
+ ┃ ┗ 📄 base.html
  ┃ ┗ 📄 index.html
- ┣ 📁 static
- ┃ ┗ 📄 style.css
+ ┃ ┗ 📄 update.html
+ ┣ 📁 instance
+ ┃ ┗ 📄 todo.db
  ┣ 📄 app.py
  ┣ 📄 requirements.txt
  ┗ 📄 README.md
